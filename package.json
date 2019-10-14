@@ -4,6 +4,9 @@
   "displayName": "merko's theme",
   "description": "simple dark theme",
   "version": "0.7.0",
+  "repository": {
+    "url": "https://github.com/merko30/merko-s-theme"
+  },
   "engines": {
     "vscode": "^1.39.0"
   },
