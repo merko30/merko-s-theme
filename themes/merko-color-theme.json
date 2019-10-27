@@ -21,9 +21,12 @@
     "tab.inactiveBackground": "#251b23",
     "tab.border": "#251b23",
     "editorGroupHeader.tabsBackground": "#251b23",
-    "editorGroupHeader.tabsBorder": "#251b23",
+    "editorGroupHeader.tabsBorder": "#614954",
     "tab.activeBackground": "#1f161c",
-    "titleBar.border": "#614954"
+    "titleBar.border": "#614954",
+    "activityBar.foreground": "#d98dfc",
+    "statusBar.background": "#d98dfc",
+    "editorGroup.border": "#614954"
   },
   "tokenColors": [
     {

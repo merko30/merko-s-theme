@@ -1,3 +1,3 @@
-# merko's theme
+# Examples
 
-![Screenshot](./img/1.png)
+![theme screenshot](img/screen.png)
